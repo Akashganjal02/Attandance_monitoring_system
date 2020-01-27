@@ -1,3 +1,8 @@
+Attendance Monitoring System
+
+This is a complete front end angular project.
+The back end is to be developed.
+
 # Ams
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
