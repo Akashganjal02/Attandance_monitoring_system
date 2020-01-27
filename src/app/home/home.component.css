@@ -1,0 +1,11 @@
+.bg-img{
+    background-image: url('home.jpg');
+}
+h1{
+    color: white;
+    font-size: 100px;
+}
+p{
+    color: lightgoldenrodyellow;
+    font-size: 28px;
+}

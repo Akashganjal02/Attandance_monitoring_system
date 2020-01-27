@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import 'https://www.w3schools.com/w3css/4/w3.css';
+/* @import 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'; */
+body {
+    background-color:#EBEBEB;
+    padding-top: 5em;
+}
+* {
+    font-family: 'Raleway';
+}
+button {
+    background:#008FEF;
+    color:white;
+    padding: 1.2em;
+    width:300px;
+    text-align:center;
+    font-size:1.2em;
+    margin-bottom: 30px;
+    cursor:pointer;
+}

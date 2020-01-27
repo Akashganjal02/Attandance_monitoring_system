@@ -1,0 +1,11 @@
+.bg-img{
+    background-image: url('anc.jpg');
+}
+h1,h3{
+    color: white;
+    font-size: 60px;
+}
+p{
+    color: lightgoldenrodyellow;
+    font-size: 18px;
+}
